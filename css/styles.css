@@ -51,6 +51,7 @@ body {
   color: #2196f3;
 }
 
+/*===BUTTONS===*/
 .modal-btn {
   font-weight: 500;
   font-size: 16px;
@@ -64,6 +65,8 @@ body {
   color: #ffffff;
   background-color: #2196f3;
 }
+/*===END BUTTONS===*/
+
 .footer-adress {
   font-weight: 400;
   font-size: 14px;
@@ -93,6 +96,7 @@ body {
   /* color: #ffffff; */
 }
 
+/*===INDEX.HTML ADVANTAGES*/
 .advantages-name {
   font-weight: 700;
   font-size: 14px;
@@ -111,6 +115,7 @@ body {
 
   color: #757575;
 }
+/*===END INDEX.HTML ADVANTAGES===*/
 
 .services-title {
   font-weight: 700;
