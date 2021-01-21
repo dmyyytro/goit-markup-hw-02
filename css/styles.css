@@ -73,7 +73,6 @@ body {
 }
 .navigation-list-link {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.143;
   letter-spacing: 0.02em;
   color: #212121;
@@ -86,7 +85,6 @@ body {
 
 .contacts-list-link {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.143;
   letter-spacing: 0.02em;
   color: var(--text-color);
@@ -124,8 +122,6 @@ body {
 /*===END BUTTONS===*/
 
 .footer-adress {
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
   color: var(--footer-adress-color);
@@ -133,8 +129,6 @@ body {
 
 .footer-adress-mail,
 .footer-adress-tel {
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
   color: var(--footer-address-tel-mail-color);
@@ -153,7 +147,6 @@ body {
 /*===INDEX.HTML ADVANTAGES*/
 .advantages-name {
   font-weight: 700;
-  font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -162,8 +155,6 @@ body {
 }
 
 .advantages-details {
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
 
@@ -198,7 +189,6 @@ body {
 }
 
 .team-member-role {
-  font-weight: normal;
   font-size: 16px;
   line-height: 1.187;
   letter-spacing: 0.03em;
@@ -214,7 +204,6 @@ body {
 }
 
 .project-type {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
