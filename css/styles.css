@@ -77,9 +77,11 @@ body {
   color: #212121;
 }
 
-.navigation-list-link:hover,
-.navigation-list-link:focus {
-  color: #2196f3;
+.navigation-list-link,
+.contacts-list-link:hover,
+.navigation-list-link,
+.contacts-list-link:focus {
+  color: var(--accent-color);
 }
 
 .contacts-list-link {
@@ -87,11 +89,6 @@ body {
   line-height: 1.143;
   letter-spacing: 0.02em;
   color: var(--text-color);
-}
-
-.contacts-list-link:hover,
-.contacts-list-link:focus {
-  color: #2196f3;
 }
 
 /*===BUTTONS===*/
