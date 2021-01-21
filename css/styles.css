@@ -68,7 +68,7 @@ body {
   font-size: 14px;
   line-height: 1.143;
   letter-spacing: 0.02em;
-  color: #2196f3;
+  color: var(--accent-color);
 }
 .navigation-list-link {
   font-weight: 500;
@@ -77,10 +77,8 @@ body {
   color: #212121;
 }
 
-.navigation-list-link,
-.contacts-list-link:hover,
-.navigation-list-link,
-.contacts-list-link:focus {
+.navigation-list-link .contacts-list-link:hover,
+.navigation-list-link .contacts-list-link:focus {
   color: var(--accent-color);
 }
 
@@ -159,15 +157,7 @@ body {
 }
 /*===END INDEX.HTML ADVANTAGES===*/
 
-.services-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.167;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: var(--titles-color);
-}
-
+.services-title,
 .team-name {
   font-weight: 700;
   font-size: 36px;
